@@ -1,0 +1,44 @@
+﻿{
+  "deploymentId": {
+    "value": ""
+  },
+  "sitecore.admin.password": {
+    "value": "CRX.av07"
+  },
+  "rep.authentication.apikey": {
+    "value": "BAC5AC5A-9194-49C9-9B3C-FEC89B0FDE4D"
+  },
+  "analytics.mongodb.connectionstring": {
+    "value": "mongodb://alcordero:CRX.av07@ds119508.mlab.com:19508/analytics"
+  },
+  "tracking.live.mongodb.connectionstring": {
+    "value": "mongodb://alcordero:CRX.av07@ds052629.mlab.com:52629/tracking_live"
+  },
+  "tracking.history.mongodb.connectionstring": {
+    "value": "mongodb:///alcordero:CRX.av07@ds052629.mlab.com:52629/history"
+  },
+  "tracking.contact.mongodb.connectionstring": {
+    "value": "mongodb://alcordero:CRX.av07@ds052629.mlab.com:52629/tracking_contact"
+  },
+  "sqlserver.login": {
+    "value": "alcordero"
+  },
+  "sqlserver.password": {
+    "value": "CRX.av07"
+  },
+  "cm.msdeploy.packageurl": {
+    "value": ".\\cmscwdp.zip"
+  },
+  "cd.msdeploy.packageurl": {
+    "value": ".\\cdscwdp.zip"
+  },
+  "prc.msdeploy.packageurl": {
+    "value": ".\\cdscwdp.zip"
+  },
+  "rep.msdeploy.packageurl": {
+    "value": ".\\repscwdp.zip"
+  },
+  "licenseXml": {
+    "value": ""
+  }
+}
